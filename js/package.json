@@ -1,0 +1,17 @@
+{
+  "name": "doctave-js",
+  "version": "0.4.2",
+  "description": "JS wrapper for Doctave --> https://github.com/Doctave/doctave",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "bin": {
+    "docs": "./main.js"
+  },
+  "author": "Liron Hazan",
+  "license": "MIT",
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
+}

@@ -2,3 +2,4 @@
 /_test_area
 /site
 .idea
+**/node_modules
