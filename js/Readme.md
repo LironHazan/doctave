@@ -1,6 +1,6 @@
 [![npm version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&type=6&v=0.4.2&x2=0)](https://www.npmjs.com/package/doctave-js)
 
-JS wrapper for [Doctave](https://github.com/Doctave/doctave)
+## JS wrapper for [Doctave](https://github.com/Doctave/doctave)
 
 For more information visit the Doctave original docs.
 
